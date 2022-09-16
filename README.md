@@ -6,4 +6,27 @@ here is gif desktop demo:
 ![desktop](./description/desktop.gif)
 
 here is gif phone demo:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![phone](./description/phone.gif)
