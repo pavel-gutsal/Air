@@ -7,26 +7,4 @@ here is gif desktop demo:
 
 here is gif phone demo:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![phone](./description/phone.gif)
